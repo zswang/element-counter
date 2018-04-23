@@ -2,7 +2,7 @@
   "name": "element-counter",
   "version": "1.0.0",
   "private": true,
-  "description": "",
+  "description": "The number of elements in the statistics page",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/zswang/element-counter.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "zswang",
+    "url": "http://weibo.com/zswang"
+  },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/zswang/element-counter/issues"
   },
